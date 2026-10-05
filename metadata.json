@@ -1,0 +1,6 @@
+{
+  "name": "PrivacyShield AI - Pre-LLM Privacy Firewall",
+  "description": "Enterprise-grade Pre-LLM Privacy Firewall that scans prompts, detects sensitive PII and credentials, calculates deterministic risk scores, and applies local redaction/tokenization policies before LLM egress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
